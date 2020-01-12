@@ -211,7 +211,7 @@ class CardScrollWidget extends StatefulWidget {
 
   CardScrollWidget(this.currentPage);
 
-  @overrideg
+  @override
   _CardScrollWidgetState createState() => _CardScrollWidgetState();
 }
 
