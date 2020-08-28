@@ -8,7 +8,7 @@
 - Flutter 이용한 간단한 앱 
 -  QWIKLABS Intro to ML: Language Processing
 <div align="center">
-  <img src='img/qwik.png' width="50%" height="50%" >
+  <img src='img/qwik.png' >{: width="50%" height="50%"}
 </div>
 
 - ML, DL, SAS 관련 블로그 운영(휴식기): https://back2black.tistory.com
