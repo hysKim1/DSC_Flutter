@@ -1,4 +1,4 @@
-### Flutter story app ui2nd flutter project
+# Flutter story app ui
 - Flutter anime streaming application
 <div align="center">
       <img src='assets/final.png'  width=200/>
