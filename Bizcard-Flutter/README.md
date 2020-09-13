@@ -1,12 +1,13 @@
-# mi_card
+# Bizcard
 
-## Goal:  how to design user interfaces for Flutter apps.
+### 
+<div align="center">
+      <img src='images/final.jpeg'  width=200/>
+</div>
 
-## What you will create
+## 학습목표: Flutter app에서 어떻게 UI를 디자인하는지를 배우기.
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
-
-## What you will learn
+### What you will learn
 
 * How to create Stateless Widgets
 * What is hot reload and hot refresh
