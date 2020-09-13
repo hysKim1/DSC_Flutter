@@ -1,7 +1,5 @@
 # Xylophone 🎹
 
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 ## 학습목표 Flutter packages 사용하는것에 익숙해지고 반복되는 widgets 구축에 익숙
 
 
