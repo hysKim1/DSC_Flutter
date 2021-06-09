@@ -14,10 +14,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 <div align="center">
-  <img src='images/res1.png' width=500/>
-    <img src='images/res2.png' width=500/>
-   <img src='images/res3.png' width=500/>
-
+  <img src='images/res.png' width=500/>
 </div>
 
 ## What you will learn
