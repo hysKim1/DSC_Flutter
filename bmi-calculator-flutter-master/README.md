@@ -14,6 +14,10 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
+<div align="center">
+  <img src='images/img.png' width=700/>
+</div>
+
 ## What you will learn
 
 - How to use Flutter themes to create coherent branding. 
