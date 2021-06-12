@@ -16,6 +16,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 <div align="center">
   <img src='images/res.png' width=700/>
+  
 </div>
 
 ## What you will learn
