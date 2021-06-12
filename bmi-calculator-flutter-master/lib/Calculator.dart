@@ -26,7 +26,7 @@ class CalculatorBrain {
     if (_bmi >= 25) {
       return '운동이 필요합니다.';
     } else if (_bmi >= 18.5) {
-      return '잘 하고 계시네요!';
+      return '잘하고 계시네요!';
     } else {
       return '체중을 늘리셔야 합니다.';
     }

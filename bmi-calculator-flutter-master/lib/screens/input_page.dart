@@ -69,7 +69,7 @@ class _InputPageState extends State<InputPage> {
                         ? kActiveContColour
                         : kInactiveContColour,
                     cardChild:
-                        IconContent(icon: FontAwesomeIcons.mars, label: ''),
+                        IconContent(icon: FontAwesomeIcons.mars, label: '남'),
                   ),
                 ),
                 Expanded(
